@@ -1,5 +1,5 @@
 #include "dht11driver.h"
-
+//test
 void StartSignal(){
     //Configure RD2 as output
     TRISCbits.TRISC2 =0;
